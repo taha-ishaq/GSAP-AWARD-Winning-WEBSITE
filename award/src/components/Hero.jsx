@@ -112,7 +112,8 @@ const Hero = () => {
                     <h1 className='special-font hero-heading text-blue-100'>
                         Redefi<b>n</b>e</h1>
                         <p className='mb-5 max-w-64 font-robert-regular text-blue-100 '>
-                            Enter the MetaGame Layer <br></br> Unleash the Play Economy
+                            Enter the MetaGame Layer <br></br> Unleash the Play Economy<br/>
+                            BY TAHA ISHAQ
                         </p>
                             <Button id="watch-trailer" title="Watch trailer" leftIcon={<TiLocationArrow/>}
                             containerClass="!bg-yellow-300 flex-center gap-1 "
